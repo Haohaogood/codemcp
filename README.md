@@ -3,6 +3,9 @@ codemcp fully obsolete.  However, there are some good design ideas (especially a
 the Git-versioning scheme) that I eventually want to port into the current generation
 of agentic coding clis.
 
+[![Listed on MCP Find](https://img.shields.io/badge/MCP_Find-Listed-blue)](https://mcp-find.org/tools/codemcp)
+
+
 # codemcp
 
 Make Claude Desktop a pair programming assistant by installing codemcp.  With
